@@ -1,0 +1,13 @@
+CUSTOMER CHURN ANALYSIS - AUTOMATED HIGHLIGHTS
+==============================================
+Customers analyzed: 1200
+Overall churn rate: 20.42%
+
+Churn rate by contract type:
+contract_type
+Month-To-Month    30.952381
+One Year           8.178439
+Two Year           5.791506
+
+Interpretation: Compare segment rates with segment sizes before prioritizing retention actions.
+These data are synthetic; results are illustrative, not business facts.

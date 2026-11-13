@@ -1,0 +1,2 @@
+rows_before_cleaning,rows_after_cleaning,duplicate_customer_ids_removed,missing_values_after_cleaning,overall_churn_rate_pct
+1203,1200,3,12,20.42

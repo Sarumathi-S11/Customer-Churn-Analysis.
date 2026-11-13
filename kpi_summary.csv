@@ -1,0 +1,7 @@
+metric,value
+Total customers,1200.0
+Churned customers,245.0
+Retained customers,955.0
+Overall churn rate (%),20.42
+Average tenure (months),36.82
+Average monthly charges,71.54

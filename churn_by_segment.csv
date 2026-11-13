@@ -1,0 +1,16 @@
+segment,segment_value,customers,churned,churn_rate_pct
+contract_type,Month-To-Month,672,208,30.95
+contract_type,One Year,269,22,8.18
+contract_type,Two Year,259,15,5.79
+internet_service,Dsl,495,92,18.59
+internet_service,Fiber Optic,583,132,22.64
+internet_service,No,122,21,17.21
+payment_method,Bank Transfer,285,61,21.4
+payment_method,Credit Card,275,43,15.64
+payment_method,Electronic Check,442,110,24.89
+payment_method,Mailed Check,186,28,15.05
+payment_method,,12,3,25.0
+paperless_billing,No,329,69,20.97
+paperless_billing,Yes,871,176,20.21
+senior_citizen,0,1019,196,19.23
+senior_citizen,1,181,49,27.07
